@@ -1,4 +1,4 @@
-Background Changer 
+#Background Changer 
 
 A simple React project that lets users change the background color dynamically.
 Built using HTML, CSS, JavaScript, and React.
