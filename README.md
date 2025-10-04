@@ -1,11 +1,14 @@
-# Background Changer
-A simple React project that lets users change the background color dynamically.
-Built using HTML, CSS, JavaScript, and React.
+# YourLogo – React Router Demo
 
-Features:
-1.Change background color with a click.
-2.Clean and responsive design.
-3.Beginner-friendly React project.
+A simple React application demonstrating React Router for client-side navigation.
+Includes multiple pages (Home, About, Contact) with a responsive design using HTML, CSS, JS, and React.
 
-<img width="1918" height="903" alt="image" src="https://github.com/user-attachments/assets/17abb6e5-9142-4859-a348-208c2f1f1c28" />
+Features:-
+1.Single-page application with React Router.
+2.Navigation menu between pages.
+3.Basic React components.
+
+<img width="1898" height="906" alt="Screenshot 2025-10-02 121201" src="https://github.com/user-attachments/assets/325aa0a3-1a63-49c6-9a23-2fe1a674d5c1" />
+
+<img width="1883" height="910" alt="Screenshot 2025-10-02 121135" src="https://github.com/user-attachments/assets/2c2f6716-e6d1-406d-ac2c-fa4df8e2b7d7" />
 
